@@ -30,9 +30,9 @@ factors driving employee attrition using Microsoft Excel.
 ## Files
 | File | Description |
 |---|---|
-| HR_Attrition_Dashboard.xlsx | Main Excel file |
-| IBM_HR_Attrition.csv | Raw dataset |
+| WA_Fn-UseC_-HR-Employee-Attrition.xlsx | Main Excel file |
+| HR DATASET __Cleaned Data__(1).csv | Raw dataset |
 | dashboard.png | Dashboard screenshot |
 
 ## 🔗 Dataset Source
-IBM HR Analytics Dataset — Kaggl
+IBM HR Analytics Dataset — Kaggle
